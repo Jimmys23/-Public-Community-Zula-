@@ -1,1 +1,1 @@
-worker: node bot.js C:\Users\Mitsos\Desktop\™Public Community Zula®
+worker: node bot.js 
