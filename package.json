@@ -2,7 +2,7 @@
   "name": "jimmys",
   "version": "1.0.0",
   "description": "a public community zula bot for TSC",
-  "main": "index.js",
+  "main": "index.js", C:\Users\Mitsos\Desktop\™Public Community Zula®
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
